@@ -1,1 +1,2 @@
-hi this is the text in notepad.
+hi this is the text in my new plot
+hello
